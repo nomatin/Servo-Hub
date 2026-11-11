@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "servo")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector/servo.pretty")(options "")(descr ""))
+  (lib (name "TPS54821RHLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS54821RHLR.pretty")(options "")(descr ""))
+  (lib (name "servo_manager")(type "KiCad")(uri "${KIPRJMOD}/lib/servo_manager.pretty")(options "")(descr ""))
+)

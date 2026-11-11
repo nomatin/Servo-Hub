@@ -1,0 +1,5 @@
+# Include native KiCad design sources in GitHub language statistics.
+*.kicad_pcb linguist-detectable -linguist-generated
+*.kicad_sch linguist-detectable -linguist-generated
+*.kicad_mod linguist-detectable -linguist-generated
+*.kicad_sym linguist-detectable -linguist-generated

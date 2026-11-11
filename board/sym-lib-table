@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "local_con")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector/local_con.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS54821RHLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS54821RHLR/TPS54821RHLR.kicad_sym")(options "")(descr ""))
+)

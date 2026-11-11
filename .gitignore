@@ -1,0 +1,33 @@
+# KiCad local state and backups
+*.kicad_prl
+*.lck
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+fp-info-cache
+/board/servo_manager-backups/
+
+# Superseded fabrication and BOM exports
+/board/bom/
+/board/export/
+
+# Unused component libraries and legacy formats
+/board/lib/L3751PUR/
+/board/lib/PCM120T_6R8M_D/
+/board/lib/STL110N10F7/
+/board/lib/New_Library.kicad_sym
+/board/lib/Connector/conn.pretty/
+/board/lib/Connector/servo.pretty/Servo_03x07.kicad_mod
+/board/lib/TPS54821RHLR/*
+!/board/lib/TPS54821RHLR/TPS54821RHLR.kicad_sym
+!/board/lib/TPS54821RHLR/TPS54821RHLR.stp
+
+# The board uses only the 3x08 WRL from this model library
+/board/lib/Connector/PinHeader_3row_P2.54mm_Horizontal.3dshapes/*
+!/board/lib/Connector/PinHeader_3row_P2.54mm_Horizontal.3dshapes/PinHeader_3x08_P2.54mm_Horizontal.wrl
+
+# Unused connector models
+/board/lib/Connector/530480810--3DModel-STEP-231308.STEP
+/board/lib/Connector/XT30UPB-M--3DModel-STEP-510211.STEP
+/board/lib/Connector/XT60PW-M--3DModel-STEP-269445.STEP
