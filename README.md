@@ -8,7 +8,11 @@ Eight-channel servo power and signal hub. A TPS54821RHLR converts a nominal 12 V
 - Output voltage — 5 V.
 - Maximum total servo current — 8 A (design limit).
 
+## 3D View
+
 ![Servo Hub 3D render](assets/servo_manager-3d-600.png)
+
+## PCB Topology
 
 | Top copper and silkscreen | Bottom copper and silkscreen |
 | --- | --- |
